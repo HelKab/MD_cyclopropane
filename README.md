@@ -29,5 +29,5 @@ The files anim_MD_forces.gif, anim_MD_traces.gif and Energies_MD.png are created
 * **Hélène Kabbech** - Bioinformatics Master student (University of Paris Diderot)
 * **Madeleine De Sousa Violente** - Bioinformatics Master student (University of Paris Diderot)
 
-###License
+### License
 January 2018
