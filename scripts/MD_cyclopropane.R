@@ -10,7 +10,7 @@ par(mgp=c(2,1,0))
 
 anim = function() {
   for (i in seq(1,nrow(d),6)) {
-    TITLE = sprintf("MD of cyclopropane\nt  =%8.4f ps,   Epot  = %8.4f kcal/mol",d$t[i], d$E_pot[i])
+    TITLE = sprintf("MD of a cyclopropane\nt  =%8.4f ps,   Epot  = %8.4f kcal/mol",d$t[i], d$E_pot[i])
     plot(0, type="n", xlim=c(0.0,1.4), ylim=c(0.0,1.3), pch=19, cex=3.5,main=TITLE,xlab="x (Ångström)",ylab="y (Ångström)")
     
     # Nouvelles positions:
@@ -45,7 +45,7 @@ saveGIF(expr = anim(), interval=.1, outdir = getwd(), movie.name="results/anim_M
 
 anim = function() {
   for (i in seq(1,nrow(d),6)) {
-    TITLE = sprintf("MD of cyclopropane\nt  =%8.4f ps,   Epot  = %8.4f kcal/mol",d$t[i], d$E_pot[i])
+    TITLE = sprintf("MD of a cyclopropane\nt  =%8.4f ps,   Epot  = %8.4f kcal/mol",d$t[i], d$E_pot[i])
     plot(0, type="n", xlim=c(0.0,1.4), ylim=c(0.0,1.3), pch=19, cex=3.5,main=TITLE,xlab="x (Ångström)",ylab="y (Ångström)")
     
     # Nouvelles positions:
