@@ -1,5 +1,5 @@
 # Molecular dynamics of a cyclopropane
-Structural bioinformatics project
+Structural bioinformatics project<br />
 (Read the french report *report.pdf* for more details)
 
 ### Prerequisites
@@ -7,11 +7,11 @@ UNIX/shell environment<br />
 Python3, Rscript
 
 ### Running the MD
-* Force calculated using an *analytical derivative* :
+* Force calculated using an **analytical derivative** :
 ```
 $ python3 scripts/MD_cyclopropane_1.py
 ```
-* Force calculated using a *numerical derivative* :
+* Force calculated using a **numerical derivative** :
 ```
 $ python3 scripts/MD_cyclopropane_2.py
 ```
