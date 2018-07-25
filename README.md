@@ -1,6 +1,6 @@
 # Molecular dynamics of a cyclopropane
 Structural bioinformatics project<br />
-(Read the french report *report.pdf* for more details)
+Read the french report (*report.pdf*) for more details
 
 ### Prerequisites
 UNIX/shell environment<br />
@@ -26,8 +26,8 @@ $ Rscript scripts/MD_cyclopropane.R
 The files anim_MD_forces.gif, anim_MD_traces.gif and Energies_MD.png are created.
 
 ### Authors
-* **Hélène Kabbech** - Bioinformatics Master student (University of Paris Diderot)
-* **Madeleine De Sousa Violente** - Bioinformatics Master student (University of Paris Diderot)
+* **Hélène Kabbech** - Bioinformatics master student (University of Paris Diderot)
+* **Madeleine De Sousa Violente** - Bioinformatics master student (University of Paris Diderot)
 
 ### License
 January 2018
