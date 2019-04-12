@@ -1,6 +1,6 @@
 # Molecular dynamics of a cyclopropane
 Structural bioinformatics project<br />
-Read the french report (*report.pdf*) for more details
+Read the report in french for more details
 
 ### Prerequisites
 UNIX/shell environment<br />
@@ -23,7 +23,6 @@ The file results/MD_cyclopropane.dat is created.
 $ Rscript scripts/MD_cyclopropane.R
 ```
 The following files are generated :
-The files anim_MD_forces.gif, anim_MD_traces.gif and Energies_MD.png are created.
 
 <p align="center">
   <img width="400" src="results/anim_MD_forces.gif" alt="MD forces"/>
@@ -31,6 +30,10 @@ The files anim_MD_forces.gif, anim_MD_traces.gif and Energies_MD.png are created
 
 <p align="center">
   <img width="400" src="results/anim_MD_traces.gif" alt="MD traces"/>
+</p>
+
+<p align="center">
+  <img width="400" src="results/Energies_MD.png" alt="Energies"/>
 </p>
 
 
