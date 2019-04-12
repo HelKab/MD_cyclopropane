@@ -25,6 +25,10 @@ $ Rscript scripts/MD_cyclopropane.R
 
 The files anim_MD_forces.gif, anim_MD_traces.gif and Energies_MD.png are created.
 
+<p align="center">
+  <img width="400" src="results/anim_MD_forces.gif" alt="MD forces"/>
+</p>
+
 ### Authors
 * **Hélène Kabbech** - Bioinformatics master student (University of Paris Diderot)
 * **Madeleine De Sousa Violente** - Bioinformatics master student (University of Paris Diderot)
